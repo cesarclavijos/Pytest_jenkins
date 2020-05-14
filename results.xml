@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="1" name="pytest" skipped="0" tests="5" time="2.349"><testcase classname="Sports_car.body.test_body.BodyTests" file="Sports_car/body/test_body.py" line="5" name="test_navigation_as_expected" time="0.002"></testcase><testcase classname="Sports_car.body.test_body.BodyTests" file="Sports_car/body/test_body.py" line="9" name="test_bumper_as_expected" time="0.002"></testcase><testcase classname="Sports_car.body.test_body.BodyTests" file="Sports_car/body/test_body.py" line="13" name="test_windshielf" time="0.001"></testcase><testcase classname="Sports_car.engine.test_engine" file="Sports_car/engine/test_engine.py" line="3" name="test_enavigation_engine_as_expected" time="0.002"></testcase><testcase classname="Sports_car.enterteinment.test_enterteinment" file="Sports_car/enterteinment/test_enterteinment.py" line="3" name="test_enterteinment_navigation_as_expected" time="2.006"><failure message="assert False">@mark.enterteinment
+    @mark.ui
+    def test_enterteinment_navigation_as_expected():
+        time.sleep(2)
+&gt;       assert False
+E       assert False
+
+Sports_car/enterteinment/test_enterteinment.py:8: AssertionError</failure></testcase></testsuite>
